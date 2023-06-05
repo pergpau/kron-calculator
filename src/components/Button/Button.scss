@@ -1,0 +1,8 @@
+.button-symbol {
+  border: solid black 1px;
+  padding: 4px;
+  width: 100px;
+  &:hover {
+    cursor: pointer;
+  }
+}
